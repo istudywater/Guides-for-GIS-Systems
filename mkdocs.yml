@@ -1,5 +1,5 @@
 site_name: Guides for GIS Systems
 theme:
-  name: material
+  name: readthedocs
 nav:
   - Home: index.md
