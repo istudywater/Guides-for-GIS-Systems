@@ -1,0 +1,5 @@
+site_name: CSV to Shapefile Guide
+theme:
+  name: material
+nav:
+  - Home: index.md
