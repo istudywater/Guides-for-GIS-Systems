@@ -1,5 +1,6 @@
+
 site_name: Guides for GIS Systems
+site_url: https://istudywater.github.io/Guides-for-GIS-Systems/
 theme:
   name: readthedocs
-nav:
-  - Home: index.md
+use_directory_urls: false
