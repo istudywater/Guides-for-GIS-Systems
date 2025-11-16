@@ -1,4 +1,4 @@
-# How to Convert a CSV File to a Shapefile in ArcGIS Pro (with Louisiana South Coordinate System)
+# How to Convert a CSV File to a Shapefile
 
 1. **Prepare Your CSV File**
    - Ensure your CSV file contains coordinate fields such as **Latitude/Longitude** or **X/Y** in projected units.
